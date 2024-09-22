@@ -39,7 +39,7 @@ namespace AracKiralamaOtomasyonu
                 Console.Write($"{i + 1}. ");
                 araclar[i].BilgileriGoster();
             }
-
+            sss
 
             // Kullanıcıdan  kiralama süresi istiyorum
             Console.Write("\nKiralamak istediğiniz aracın numarasını girin: ");
